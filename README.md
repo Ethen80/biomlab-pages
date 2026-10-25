@@ -1,2 +1,3 @@
-# biomlab-pages
-Published static site for Biomechanics Lab
+# Biomechanics Lab
+
+Published static website: https://ethen80.github.io/biomlab-pages/
